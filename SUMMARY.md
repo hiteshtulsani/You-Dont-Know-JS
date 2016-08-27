@@ -22,7 +22,7 @@
    * [this & object prototypes](this & object prototypes/README.md)
        * [Foreword](this & object prototypes/foreword.md)
        * [Table Of Contents](this & object prototypes/toc.md)
-       * Chapter 1
+       * [Chapter 1](this & object prototypes/ch1.md)
        * Chapter 2
        * Chapter 3
        * Chapter 4
