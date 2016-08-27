@@ -34,7 +34,7 @@
        * [Foreword](types & grammar/foreword.md)
        * [Table Of Contents](types and grammar/toc.md)
        * [Chapter 1](types and grammar/ch1.md)
-       * Chapter 3
+       * Chapter 2
        * Chapter 3
        * Chapter 4
        * Chapter 5
