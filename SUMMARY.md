@@ -18,6 +18,7 @@
        * Appendix A
        * Appendix B
        * Appendix C
+       * Appendix D
    * [this & object prototypes](this & object prototypes/README.md)
    * [Types & Grammar](types & grammar/README.md)
    * [Async & Performance](async & performance/README.md)
