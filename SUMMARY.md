@@ -33,6 +33,7 @@
    * [Types & Grammar](types & grammar/README.md)
        * [Foreword](types & grammar/foreword.md)
        * [Table Of Contents](types and grammar/toc.md)
+       * Chapter 1
    * [Async & Performance](async & performance/README.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
 
