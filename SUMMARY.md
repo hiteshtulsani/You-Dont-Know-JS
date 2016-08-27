@@ -10,6 +10,7 @@
        * [Appendix A](up & going/apA.md)
    * [Scope & Closures](scope & closures/README.md)
        * [Table Of Contents](scope & closures/toc.md)
+       * Chapter 1
    * [this & object prototypes](this & object prototypes/README.md)
    * [Types & Grammar](types & grammar/README.md)
    * [Async & Performance](async & performance/README.md)
