@@ -14,7 +14,7 @@
        * [Chapter 2](scope & closures/ch2.md)
        * [Chapter 3](scope & closures/ch3.md)
        * [Chapter 4](scope & closures/ch4.md)
-       * Chapter 5
+       * [Chapter 5](scope & closures/ch5.md)
        * Appendix A
        * Appendix B
        * Appendix C
