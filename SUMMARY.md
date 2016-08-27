@@ -37,7 +37,7 @@
        * [Chapter 2](types and grammar/ch2.md)
        * [Chapter 3](types and grammar/ch3.md)
        * [Chapter 4](types and grammar/ch4.md)
-       * Chapter 5
+       * [Chapter 5](types and grammar/ch5.md)
        * Appendix A
        * Appendix B
    * [Async & Performance](async & performance/README.md)
