@@ -29,7 +29,7 @@
        * [Chapter 5](this & object prototypes/ch5.md)
        * [Chapter 6](this & object prototypes/ch6.md)
        * [Appendix A](this & object prototypes/apA.md)
-       * Appendix B
+       * [Appendix B](this & object prototypes/apB.md)
    * [Types & Grammar](types & grammar/README.md)
    * [Async & Performance](async & performance/README.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
