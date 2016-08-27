@@ -54,7 +54,7 @@
        * [Appendix C](async & performance/apC.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
        * [Foreword](es6 & beyond/foreword.md)
-       * Table Of Contents
+       * [Table Of Contents](es6 & beyond/toc.md)
        * Chapter 1
        * Chapter 2
        * Chapter 3
