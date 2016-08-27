@@ -42,5 +42,6 @@
        * [Appendix B](types and grammar/apB.md)
    * [Async & Performance](async & performance/README.md)
        * Foreword
+       * Table Of Contents
    * [ES6 & Beyond](es6 & beyond/README.md)
 
