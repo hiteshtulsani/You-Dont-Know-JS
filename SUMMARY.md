@@ -39,7 +39,7 @@
        * [Chapter 4](types and grammar/ch4.md)
        * [Chapter 5](types and grammar/ch5.md)
        * [Appendix A](types and grammar/apA.md)
-       * Appendix B
+       * [Appendix B](types and grammar/apB.md)
    * [Async & Performance](async & performance/README.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
 
