@@ -21,7 +21,7 @@
        * [Appendix D](scope & closures/apD.md)
    * [this & object prototypes](this & object prototypes/README.md)
        * [Foreword](this & object prototypes/foreword.md)
-       * Table Of Contents
+       * [Table Of Contents](this & object prototypes/toc.md)
        * Chapter 1
        * Chapter 2
        * Chapter 3
