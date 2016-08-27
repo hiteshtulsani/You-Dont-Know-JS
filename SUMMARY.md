@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
    * [Up & Going](up & going/README.md)
-* [Up And Going](up & going/README.md)
 * [Scope & Closures](scope & closures/README.md)
 * [this & object prototypes](this & object prototypes/README.md)
 * [Types & Grammar](types & grammar/README.md)
