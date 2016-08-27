@@ -63,4 +63,5 @@
        * [Chapter 6](es6 & beyond/ch6.md)
        * [Chapter 7](es6 & beyond/ch7.md)
        * [Chapter 8](es6 & beyond/ch8.md)
+   * Preface
 
