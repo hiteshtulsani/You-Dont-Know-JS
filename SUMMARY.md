@@ -1,4 +1,4 @@
 # Summary
 
-* [Up And Going]("up & going/README.md")
+* [Up And Going](up & going/README.md)
 
