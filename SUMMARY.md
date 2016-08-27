@@ -18,7 +18,7 @@
        * [Appendix A](scope & closures/apA.md)
        * [Appendix B](scope & closures/apB.md)
        * [Appendix C](scope & closures/apC.md)
-       * Appendix D
+       * [Appendix D](scope & closures/apD.md)
    * [this & object prototypes](this & object prototypes/README.md)
    * [Types & Grammar](types & grammar/README.md)
    * [Async & Performance](async & performance/README.md)
