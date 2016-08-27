@@ -58,7 +58,7 @@
        * [Chapter 1](es6 & beyond/ch1.md)
        * [Chapter 2](es6 & beyond/ch2.md)
        * [Chapter 3](es6 & beyond/ch3.md)
-       * Chapter 4
+       * [Chapter 4](es6 & beyond/ch4.md)
        * Chapter 5
        * Chapter 6
        * Chapter 7
