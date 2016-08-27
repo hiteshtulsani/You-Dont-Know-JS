@@ -32,7 +32,7 @@
        * [Appendix B](this & object prototypes/apB.md)
    * [Types & Grammar](types & grammar/README.md)
        * [Foreword](types & grammar/foreword.md)
-       * Table Of Contents
+       * [Table Of Contents](types and grammar/toc.md)
    * [Async & Performance](async & performance/README.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
 
