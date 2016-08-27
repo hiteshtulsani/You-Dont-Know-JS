@@ -49,7 +49,7 @@
        * [Chapter 4](async & performance/ch4.md)
        * [Chapter 5](async & performance/ch5.md)
        * [Chapter 6](async & performance/ch6.md)
-       * Appendix A
+       * [Appendix A](async & performance/apA.md)
        * Appendix B
        * Appendix C
    * [ES6 & Beyond](es6 & beyond/README.md)
