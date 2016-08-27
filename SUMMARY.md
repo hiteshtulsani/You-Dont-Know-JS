@@ -42,7 +42,7 @@
        * [Appendix B](types and grammar/apB.md)
    * [Async & Performance](async & performance/README.md)
        * [Foreword](async & performance/foreword.md)
-       * Table Of Contents
+       * [Table Of Contents](async & performance/toc.md)
        * Chapter 1
        * Chapter 2
        * Chapter 3
