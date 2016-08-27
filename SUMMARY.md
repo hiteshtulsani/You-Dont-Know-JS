@@ -15,6 +15,7 @@
        * Chapter 3
        * Chapter 4
        * Chapter 5
+       * Appendix A
    * [this & object prototypes](this & object prototypes/README.md)
    * [Types & Grammar](types & grammar/README.md)
    * [Async & Performance](async & performance/README.md)
