@@ -49,5 +49,6 @@
        * Chapter 4
        * Chapter 5
        * Chapter 6
+       * Appendix A
    * [ES6 & Beyond](es6 & beyond/README.md)
 
