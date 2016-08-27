@@ -55,4 +55,5 @@
    * [ES6 & Beyond](es6 & beyond/README.md)
        * Foreword
        * Table Of Contents
+       * Chapter 1
 
