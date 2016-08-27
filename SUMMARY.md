@@ -22,6 +22,7 @@
    * [this & object prototypes](this & object prototypes/README.md)
        * Foreword
        * Table Of Contents
+       * Chapter 1
    * [Types & Grammar](types & grammar/README.md)
    * [Async & Performance](async & performance/README.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
