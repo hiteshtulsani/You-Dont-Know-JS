@@ -43,7 +43,7 @@
    * [Async & Performance](async & performance/README.md)
        * [Foreword](async & performance/foreword.md)
        * [Table Of Contents](async & performance/toc.md)
-       * Chapter 1
+       * [Chapter 1](async & performance/ch1.md)
        * Chapter 2
        * Chapter 3
        * Chapter 4
