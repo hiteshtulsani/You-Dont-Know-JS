@@ -36,6 +36,7 @@
        * Chapter 1
        * Chapter 3
        * Chapter 3
+       * Chapter 4
    * [Async & Performance](async & performance/README.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
 
