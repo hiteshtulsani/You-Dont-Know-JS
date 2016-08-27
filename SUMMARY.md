@@ -10,7 +10,7 @@
        * [Appendix A](up & going/apA.md)
    * [Scope & Closures](scope & closures/README.md)
        * [Table Of Contents](scope & closures/toc.md)
-       * Chapter 1
+       * [Chapter 1](scope & closures/ch1.md)
        * Chapter 2
        * Chapter 3
        * Chapter 4
