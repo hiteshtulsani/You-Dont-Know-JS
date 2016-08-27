@@ -20,6 +20,7 @@
        * [Appendix C](scope & closures/apC.md)
        * [Appendix D](scope & closures/apD.md)
    * [this & object prototypes](this & object prototypes/README.md)
+       * Foreword
    * [Types & Grammar](types & grammar/README.md)
    * [Async & Performance](async & performance/README.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
