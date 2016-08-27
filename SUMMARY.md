@@ -35,7 +35,7 @@
        * [Table Of Contents](types and grammar/toc.md)
        * [Chapter 1](types and grammar/ch1.md)
        * [Chapter 2](types and grammar/ch2.md)
-       * Chapter 3
+       * [Chapter 3](types and grammar/ch3.md)
        * Chapter 4
        * Chapter 5
        * Appendix A
