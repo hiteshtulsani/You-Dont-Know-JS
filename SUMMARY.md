@@ -35,6 +35,7 @@
        * [Table Of Contents](types and grammar/toc.md)
        * Chapter 1
        * Chapter 3
+       * Chapter 3
    * [Async & Performance](async & performance/README.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
 
