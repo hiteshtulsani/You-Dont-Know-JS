@@ -39,6 +39,7 @@
        * Chapter 4
        * Chapter 5
        * Appendix A
+       * Appendix B
    * [Async & Performance](async & performance/README.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
 
