@@ -11,7 +11,7 @@
    * [Scope & Closures](scope & closures/README.md)
        * [Table Of Contents](scope & closures/toc.md)
        * [Chapter 1](scope & closures/ch1.md)
-       * Chapter 2
+       * [Chapter 2](scope & closures/ch2.md)
        * Chapter 3
        * Chapter 4
        * Chapter 5
