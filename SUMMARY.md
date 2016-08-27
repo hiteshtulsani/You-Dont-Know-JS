@@ -43,5 +43,6 @@
    * [Async & Performance](async & performance/README.md)
        * Foreword
        * Table Of Contents
+       * Chapter 1
    * [ES6 & Beyond](es6 & beyond/README.md)
 
