@@ -12,7 +12,7 @@
        * [Table Of Contents](scope & closures/toc.md)
        * [Chapter 1](scope & closures/ch1.md)
        * [Chapter 2](scope & closures/ch2.md)
-       * Chapter 3
+       * [Chapter 3](scope & closures/ch3.md)
        * Chapter 4
        * Chapter 5
        * Appendix A
