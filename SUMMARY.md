@@ -24,7 +24,7 @@
        * [Table Of Contents](this & object prototypes/toc.md)
        * [Chapter 1](this & object prototypes/ch1.md)
        * [Chapter 2](this & object prototypes/ch2.md)
-       * Chapter 3
+       * [Chapter 3](this & object prototypes/ch3.md)
        * Chapter 4
        * Chapter 5
        * Chapter 6
