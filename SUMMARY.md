@@ -41,7 +41,7 @@
        * [Appendix A](types and grammar/apA.md)
        * [Appendix B](types and grammar/apB.md)
    * [Async & Performance](async & performance/README.md)
-       * Foreword
+       * [Foreword](async & performance/foreword.md)
        * Table Of Contents
        * Chapter 1
        * Chapter 2
