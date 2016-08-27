@@ -27,7 +27,7 @@
        * [Chapter 3](this & object prototypes/ch3.md)
        * [Chapter 4](this & object prototypes/ch4.md)
        * [Chapter 5](this & object prototypes/ch5.md)
-       * Chapter 6
+       * [Chapter 6](this & object prototypes/ch6.md)
        * Appendix A
        * Appendix B
    * [Types & Grammar](types & grammar/README.md)
