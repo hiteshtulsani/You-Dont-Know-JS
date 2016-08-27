@@ -32,13 +32,6 @@ If you'd like to contribute financially towards the effort (or any of my other O
 
 <a href="https://www.patreon.com/getify"><img src="http://blog.getify.com/wp-content/uploads/patreon.png"></a>
 
-## In-person Training
-
-The content for these books derives heavily from a series of training materials I teach professionally (in both public and private-corporate workshop format), called "Advanced JS: The 'What You Need To Know' Parts".
-
-If you like this content and would like to contact me regarding conducting training on these, or other various JS/HTML5/node.js topics, please reach out to me through any of these channels listed here:
-
-[http://getify.me](http://getify.me)
 
 ## Online Video Training
 
