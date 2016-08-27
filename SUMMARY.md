@@ -16,7 +16,7 @@
        * [Chapter 4](scope & closures/ch4.md)
        * [Chapter 5](scope & closures/ch5.md)
        * [Appendix A](scope & closures/apA.md)
-       * Appendix B
+       * [Appendix B](scope & closures/apB.md)
        * Appendix C
        * Appendix D
    * [this & object prototypes](this & object prototypes/README.md)
