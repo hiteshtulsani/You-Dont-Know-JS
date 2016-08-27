@@ -51,5 +51,6 @@
        * Chapter 6
        * Appendix A
        * Appendix B
+       * Appendix C
    * [ES6 & Beyond](es6 & beyond/README.md)
 
