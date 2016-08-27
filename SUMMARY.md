@@ -51,6 +51,6 @@
        * [Chapter 6](async & performance/ch6.md)
        * [Appendix A](async & performance/apA.md)
        * [Appendix B](async & performance/apB.md)
-       * Appendix C
+       * [Appendix C](async & performance/apC.md)
    * [ES6 & Beyond](es6 & beyond/README.md)
 
