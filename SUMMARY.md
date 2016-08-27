@@ -46,7 +46,7 @@
        * [Chapter 1](async & performance/ch1.md)
        * [Chapter 2](async & performance/ch2.md)
        * [Chapter 3](async & performance/ch3.md)
-       * Chapter 4
+       * [Chapter 4](async & performance/ch4.md)
        * Chapter 5
        * Chapter 6
        * Appendix A
