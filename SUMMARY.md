@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Preface
+   * [Preface](preface.md)
    * [Up & Going](up & going/README.md)
        * [Foreword](up & going/foreword.md)
        * [ToC](up & going/toc.md)
