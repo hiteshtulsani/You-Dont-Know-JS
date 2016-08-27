@@ -57,7 +57,7 @@
        * [Table Of Contents](es6 & beyond/toc.md)
        * [Chapter 1](es6 & beyond/ch1.md)
        * [Chapter 2](es6 & beyond/ch2.md)
-       * Chapter 3
+       * [Chapter 3](es6 & beyond/ch3.md)
        * Chapter 4
        * Chapter 5
        * Chapter 6
