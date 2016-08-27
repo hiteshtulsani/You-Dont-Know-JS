@@ -5,7 +5,7 @@
        * [ToC](up & going/toc.md)
        * [Chapter 1](up & going/ch1.md)
        * [Chapter 2](up & going/ch2.md)
-       * Chapter 3
+       * [Chapter 3](up & going/ch3.md)
    * [Scope & Closures](scope & closures/README.md)
    * [this & object prototypes](this & object prototypes/README.md)
    * [Types & Grammar](types & grammar/README.md)
