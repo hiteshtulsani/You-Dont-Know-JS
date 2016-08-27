@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
    * [Up & Going](up & going/README.md)
+       * [Foreword](up & going/foreword.md)
        * [ToC](up & going/toc.md)
        * [Chapter 1](up & going/ch1.md)
        * [Chapter 2](up & going/ch2.md)
        * [Chapter 3](up & going/ch3.md)
-       * [Foreword](up & going/foreword.md)
    * [Scope & Closures](scope & closures/README.md)
    * [this & object prototypes](this & object prototypes/README.md)
    * [Types & Grammar](types & grammar/README.md)
