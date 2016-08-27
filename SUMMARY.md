@@ -20,7 +20,7 @@
        * [Appendix C](scope & closures/apC.md)
        * [Appendix D](scope & closures/apD.md)
    * [this & object prototypes](this & object prototypes/README.md)
-       * Foreword
+       * [Foreword](this & object prototypes/foreword.md)
        * Table Of Contents
        * Chapter 1
        * Chapter 2
